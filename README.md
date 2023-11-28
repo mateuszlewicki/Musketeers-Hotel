@@ -1,5 +1,5 @@
 # Muskeetes-Hotel 
- Praca inżynierska
+ Praca inżynierska / Engineering Thesis
 
 - Mateusz
 - Bartosz
