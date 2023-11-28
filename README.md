@@ -2,6 +2,6 @@
  Praca inżynierska / Engineering Thesis
 
 - Mateusz
-- Bartosz
+- Bartłomiej
 - Wiktor
 - Piotr
